@@ -47,7 +47,7 @@ export class ErrorMsgDirective implements OnInit, OnChanges {
 
 
   ngOnChanges(changes: SimpleChanges): void {
-    console.log(changes)
+  
 
     // if (changes['mensaje']) {
     //   const mensaje = changes['mensaje'].currentValue;
